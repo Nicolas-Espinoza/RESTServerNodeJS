@@ -1,0 +1,10 @@
+//Comando que sirve para pushear una version
+
+git tag - a v1.0.0 -m "finalizado"
+git push --tags
+
+
+//comandos instalados
+npm install express-fileupload
+npm install cloudinary
+
